@@ -1,7 +1,7 @@
 # Online-Course-Materials-Management-System:
  - Used html and css3 for the webpage designing and formatting.
  - Used PHP for the backend code, and MySql for handling the database for the project
- - Followed a MVC Structure to organizse the whole bunhc of codes, and created eparate branches for them in this repository.
+ - Followed a MVC Structure to organizse the whole bunch of codes, and created eparate branches for them in this repository.
  - Would soon be committing changes to the original code, as I am shifting to Laravel for it.
 
 # Project Description:
